@@ -12,9 +12,6 @@ export default function App() {
                     <Route path="/notes">
                         <Notepad />
                     </Route>
-                    <Route path="/textcompare">
-                        <Notepad />
-                    </Route>
                     <Route path="/">
                         <Home />
                     </Route>
